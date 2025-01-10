@@ -1,4 +1,4 @@
-## Teaching and Learnninng Service at McGill University
+## Teaching and Learning (TLS) Service at McGill University
 - Project for INSY442 - Data Analysis and Visualization
 
 # Introduction and Business Case
